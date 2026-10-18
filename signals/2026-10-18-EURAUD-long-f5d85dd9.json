@@ -1,0 +1,29 @@
+{
+  "id": "f5d85dd9-7ed3-4783-94ba-843d590f05ab",
+  "afgegeven_op": "2026-10-18T21:04:32.107Z",
+  "paar": "EUR/AUD",
+  "richting": "long",
+  "strategie": "inflation-divergence",
+  "bucket": "Inflation divergence",
+  "kwaliteit": "B",
+  "regel_id": "M2-W3-L1-03",
+  "regels": [
+    "M2-W3-L1-03",
+    "M2-W3-L1-01",
+    "M2-W3-L1-13",
+    "M2-W3-L1-06"
+  ],
+  "entry": 1.60589,
+  "stop": 1.59218,
+  "target": 1.62417,
+  "lagen": [
+    "R",
+    "I"
+  ],
+  "regime": "Risk-off",
+  "drempelset": "set 1",
+  "signaalset": "signaalset 2",
+  "invalidatie": "IDS onder 10 of stand terug in de dode zone",
+  "hash": "e8e4106e86c84e35181912bae7e56ca169375faefcda4c7804c02fc3d43ee373",
+  "status": "papier-live · geen advies"
+}
