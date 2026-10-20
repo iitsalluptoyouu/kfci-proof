@@ -1,0 +1,20 @@
+{
+  "datum": "2026-10-20T17:42:39.442Z",
+  "periode": "alles",
+  "config_hash": "f95b6d49329374d9ba4ff6be1b6d5d4fa3bfc61489cc841cb8e397289cbfbdfd",
+  "code": "7279c5f7a06e9bde6bc2ea84a1af74834a0e7636",
+  "segmenten": {
+    "A_in_sample": {
+      "n": 543,
+      "hash": "41e59634c164542de047e1672e73ef0578f151bc3e86e2bf558f4185f546d301"
+    },
+    "A_out_of_sample": {
+      "n": 374,
+      "hash": "41974c2a8239c47575fa28059ddbaf54f5e1096aed5bdc35f0be56b74835e3d8"
+    },
+    "B_regime": {
+      "n": 334,
+      "hash": "ea8ce687467887eb4a015e5ac5e8913825f0201dd025f5ef38c1a1bb9c238324"
+    }
+  }
+}
