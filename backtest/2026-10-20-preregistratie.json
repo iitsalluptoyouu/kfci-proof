@@ -1,0 +1,8 @@
+{
+  "datum": "2026-10-20T17:16:38.942Z",
+  "code_commit": "7279c5f7a06e9bde6bc2ea84a1af74834a0e7636",
+  "code_hash": "5416601d246e401ff07ead598652fb218e6052e49454166d586647281609f780",
+  "config_hash": "f95b6d49329374d9ba4ff6be1b6d5d4fa3bfc61489cc841cb8e397289cbfbdfd",
+  "in_sample_hash": "41e59634c164542d",
+  "belofte": "De out-of-sample-run (2023–2026) draait één keer op deze code-commit en deze config; daarna wordt niets meer aangepast. Een aanpassing is een nieuwe set met nieuwe datum en nieuwe out-of-sample-periode."
+}
