@@ -1,0 +1,34 @@
+{
+  "week": "2026-W45",
+  "gemaakt_op": "2026-11-06T22:37:33.532Z",
+  "hash": "97b6061c97abbd9b3fa4b3b11d59d05ee8172ffc71d0152cbcf034b1d3a39322",
+  "aantal_signalen": 1,
+  "signalen": [
+    {
+      "id": "f5d85dd9-7ed3-4783-94ba-843d590f05ab",
+      "afgegeven_op": "2026-10-18T21:04:32.107+00:00",
+      "paar": "EUR/AUD",
+      "richting": "long",
+      "strategie": "inflation-divergence",
+      "kwaliteit": "B",
+      "entry": 1.60589,
+      "stop": 1.59218,
+      "target": 1.62417,
+      "lagen": [
+        "R",
+        "I"
+      ],
+      "regime": "Risk-off",
+      "drempelset": "set 1",
+      "hash": "e8e4106e86c84e35181912bae7e56ca169375faefcda4c7804c02fc3d43ee373",
+      "proof_commit": "df510c6375cba4ba710826d654518a78f0252147",
+      "uitkomsten": [
+        {
+          "horizon": "1w",
+          "r": -1,
+          "oordeel": "FOUT"
+        }
+      ]
+    }
+  ]
+}
