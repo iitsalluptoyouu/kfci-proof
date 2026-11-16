@@ -1,0 +1,30 @@
+{
+  "id": "c6e4cc59-3bda-4c2e-93b4-76ecb1843d90",
+  "afgegeven_op": "2026-11-16T13:52:39.376Z",
+  "paar": "EUR/CAD",
+  "richting": "long",
+  "kwaliteit": "B",
+  "horizon": "12w",
+  "strategie": "inflation-divergence",
+  "bucket": "Inflation divergence",
+  "regel_id": "M2-W3-L1-03",
+  "regels": [
+    "M2-W3-L1-03",
+    "M2-W3-L1-01",
+    "M2-W3-L1-13",
+    "M2-W3-L1-06"
+  ],
+  "nulpunt": 1.57419,
+  "nulpunt_betekenis": "koers bij afgifte, alleen het meetpunt voor de beweging; geen instapprijs",
+  "atr_bij_afgifte": 0.007006,
+  "lagen": [
+    "R",
+    "I"
+  ],
+  "regime": "Risk-off",
+  "drempelset": "set 1",
+  "signaalset": "signaalset 3",
+  "invalidatie": "IDS onder 10 of stand terug in de dode zone",
+  "hash": "f4b3eecef86ebc3067954d56dc3b5eeaae629c31c0c02b6d95e8a8144b7df4ac",
+  "status": "papier-live · geen advies"
+}
