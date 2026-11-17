@@ -1,2 +1,3 @@
 id;afgegeven_op;paar;richting;kwaliteit;horizon;strategie;regel_id;nulpunt;atr_bij_afgifte;regime;drempelset;signaalset;hash;status
 c6e4cc59-3bda-4c2e-93b4-76ecb1843d90;2026-11-16T13:52:39.376Z;EUR/CAD;long;B;12w;inflation-divergence;M2-W3-L1-03;1.57419;0.007006;Risk-off;set 1;signaalset 3;f4b3eecef86ebc3067954d56dc3b5eeaae629c31c0c02b6d95e8a8144b7df4ac;papier-live · geen advies
+eed4d35e-f219-44ba-9b6b-d38c5e1e4e6b;2026-11-17T14:45:02.170Z;GBP/CAD;long;B;12w;yield-differential;M1-BON-25;1.88631;0.007093;Risk-off;set 1;signaalset 3;fcfa12da000315766b41c83836c2a5ee32df8a3fd7748f957f79eba1e9c3f169;papier-live · geen advies
