@@ -1,0 +1,31 @@
+{
+  "id": "eed4d35e-f219-44ba-9b6b-d38c5e1e4e6b",
+  "afgegeven_op": "2026-11-17T14:45:02.170Z",
+  "paar": "GBP/CAD",
+  "richting": "long",
+  "kwaliteit": "B",
+  "horizon": "12w",
+  "strategie": "yield-differential",
+  "bucket": "Yield differential",
+  "regel_id": "M1-BON-25",
+  "regels": [
+    "M1-BON-25",
+    "M1-W1-L1-20 t/m 23",
+    "M2-W2-L1-15",
+    "M1-BON-49/50",
+    "M1-BON-52/53"
+  ],
+  "nulpunt": 1.88631,
+  "nulpunt_betekenis": "koers bij afgifte, alleen het meetpunt voor de beweging; geen instapprijs",
+  "atr_bij_afgifte": 0.007093,
+  "lagen": [
+    "R",
+    "G"
+  ],
+  "regime": "Risk-off",
+  "drempelset": "set 1",
+  "signaalset": "signaalset 3",
+  "invalidatie": "YDS onder 10 of stand terug in de dode zone (±15)",
+  "hash": "fcfa12da000315766b41c83836c2a5ee32df8a3fd7748f957f79eba1e9c3f169",
+  "status": "papier-live · geen advies"
+}
