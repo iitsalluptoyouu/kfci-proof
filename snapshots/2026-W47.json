@@ -1,0 +1,119 @@
+{
+  "week": "2026-W47",
+  "gemaakt_op": "2026-11-20T22:44:53.345Z",
+  "hash": "5ee4b6a6371abceb249812f7f9ef5b39529dfa111fcfd1c53e1f61fba3c69f75",
+  "aantal_signalen": 5,
+  "signalen": [
+    {
+      "id": "f5d85dd9-7ed3-4783-94ba-843d590f05ab",
+      "afgegeven_op": "2026-10-18T21:04:32.107+00:00",
+      "paar": "EUR/AUD",
+      "richting": "long",
+      "strategie": "inflation-divergence",
+      "kwaliteit": "B",
+      "entry": 1.60589,
+      "stop": 1.59218,
+      "target": 1.62417,
+      "lagen": [
+        "R",
+        "I"
+      ],
+      "regime": "Risk-off",
+      "drempelset": "set 1",
+      "hash": "e8e4106e86c84e35181912bae7e56ca169375faefcda4c7804c02fc3d43ee373",
+      "proof_commit": "df510c6375cba4ba710826d654518a78f0252147",
+      "uitkomsten": [
+        {
+          "horizon": "1w",
+          "r": -1,
+          "oordeel": "FOUT"
+        },
+        {
+          "horizon": "4w",
+          "r": -1,
+          "oordeel": "FOUT"
+        }
+      ]
+    },
+    {
+      "id": "c6e4cc59-3bda-4c2e-93b4-76ecb1843d90",
+      "afgegeven_op": "2026-11-16T13:52:39.376+00:00",
+      "paar": "EUR/CAD",
+      "richting": "long",
+      "strategie": "inflation-divergence",
+      "kwaliteit": "B",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "lagen": [
+        "R",
+        "I"
+      ],
+      "regime": "Risk-off",
+      "drempelset": "set 1",
+      "hash": "f4b3eecef86ebc3067954d56dc3b5eeaae629c31c0c02b6d95e8a8144b7df4ac",
+      "proof_commit": "ab796b27298549a56a2c33c97969a8dd45725fc7",
+      "uitkomsten": []
+    },
+    {
+      "id": "eed4d35e-f219-44ba-9b6b-d38c5e1e4e6b",
+      "afgegeven_op": "2026-11-17T14:45:02.17+00:00",
+      "paar": "GBP/CAD",
+      "richting": "long",
+      "strategie": "yield-differential",
+      "kwaliteit": "B",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "lagen": [
+        "R",
+        "G"
+      ],
+      "regime": "Risk-off",
+      "drempelset": "set 1",
+      "hash": "fcfa12da000315766b41c83836c2a5ee32df8a3fd7748f957f79eba1e9c3f169",
+      "proof_commit": "bd0bbfd0316761e7f91d25634d6e0aab9c4cfd4a",
+      "uitkomsten": []
+    },
+    {
+      "id": "4993ecac-bdf9-4061-82d7-f0ec973fcf01",
+      "afgegeven_op": "2026-11-17T14:45:02.321+00:00",
+      "paar": "EUR/CAD",
+      "richting": "long",
+      "strategie": "yield-differential",
+      "kwaliteit": "B",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "lagen": [
+        "R",
+        "I"
+      ],
+      "regime": "Risk-off",
+      "drempelset": "set 1",
+      "hash": "52b38375f1e1b666aa54b2f15de749e08ea7fca425615eb6e7ca76105af357e3",
+      "proof_commit": null,
+      "uitkomsten": []
+    },
+    {
+      "id": "b5fc076d-2bba-4bf9-86c8-549fcb8d6aa8",
+      "afgegeven_op": "2026-11-17T14:45:03.746+00:00",
+      "paar": "GBP/NZD",
+      "richting": "long",
+      "strategie": "yield-differential",
+      "kwaliteit": "B",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "lagen": [
+        "R",
+        "G"
+      ],
+      "regime": "Risk-off",
+      "drempelset": "set 1",
+      "hash": "ec7e297e22d20f164b7d70ab9e98240a7f7292bb417235505d73fb1431c15596",
+      "proof_commit": null,
+      "uitkomsten": []
+    }
+  ]
+}
